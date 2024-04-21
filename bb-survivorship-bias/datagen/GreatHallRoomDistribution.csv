@@ -1,0 +1,8 @@
+Name,Standard,Super,Extreme,Ultimate
+Room Distribution,45,35,15,5
+Take First Room,4532,3491,1485,492
+Leave if next is lower floor,6136,4741,2094,670
+Leave if current and next room are <= Super,18735,14460,6287,2127
+Extreme is good enough.,22505,17503,7519,2488
+Ultimate! <<Insert 4 chevrons here>>,90962,70558,30315,10023
+Ultimate! 1% chance of room failing,75007,58535,24873,8382

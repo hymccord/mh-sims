@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33626.354
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bb-room-sim", "bb-room-sim.csproj", "{24E9BF26-1ED5-4360-9917-912D06C03BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E9BF26-1ED5-4360-9917-912D06C03BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E9BF26-1ED5-4360-9917-912D06C03BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E9BF26-1ED5-4360-9917-912D06C03BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E9BF26-1ED5-4360-9917-912D06C03BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3373F2D3-A9FC-43BD-9A99-5AA6D8E2BF53}
+	EndGlobalSection
+EndGlobal
